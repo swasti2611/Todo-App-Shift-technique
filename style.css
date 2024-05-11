@@ -1,0 +1,41 @@
+body{
+    width: 100%;
+    display: flex;
+   gap: 20px;
+    color: #1F2544;
+   align-items: flex-start;
+   font-family: sans-serif;
+}
+
+.container{
+    width:30%;
+    height: 100vh;
+    border: 1px solid#D9EDBF;
+   padding: 30px;
+   background-color: #D9EDBF;
+   text-align: center;
+}
+
+
+.task{
+   margin-top:2px;
+   height: 80px;
+ padding: 8px;
+   margin-bottom: 10px;
+  background-color: #FFB996;
+ border-radius: 9px;
+ text-align: center;
+ cursor: pointer;
+}
+.task button{
+   margin-left: -1px;
+   background-color:#FFCF81 ;
+   height: 10px;
+   height: 21px;
+    width: 61px;
+    border-radius: 9px;
+     display: inline-block;
+     cursor: pointer;
+}
+
+  
